@@ -1,0 +1,5 @@
+GUI
+https://zh.wikipedia.org/zh-tw/%E5%9B%BE%E5%BD%A2%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2
+
+Console
+https://en.wikipedia.org/wiki/Console_application#:~:text=A%20console%20application%20is%20a%20computer%20program%20designed,the%20Terminal%20in%20macOS%2C%20and%20xterm%20in%20Unix.
